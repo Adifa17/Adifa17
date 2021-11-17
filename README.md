@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Welcome to my github account
 
 <!--
 **Adifa17/Adifa17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-An UPI YPTK Padang College Student
